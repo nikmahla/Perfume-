@@ -637,8 +637,8 @@ main {
             }
 
             >figure {
-                width: 100%;
-                height: 100%;
+                width: 96%;
+                height: 122%;
                 display: flex;
                 justify-content: center;
                 align-items: center;
