@@ -1,11 +1,11 @@
 # Perfume-
-[Demo Link] (https://nikmahla.github.io/Perfume-/)
+-[Demo Project](https://nikmahla.github.io/Perfume-/)
 
-Developed by Fatemeh Nikookar
+-Developed by Fatemeh Nikookar
 
-Created - 2024-5-7
+-Created - 2024-5-7
 
-Technologies Used - Html , css
+-Technologies Used - Html , css
 
 Role - Frontend
 ![view](https://github.com/nikmahla/Perfume-/assets/53364627/06d25940-66cb-4aec-9886-b983c0eb61c2)
