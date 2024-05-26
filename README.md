@@ -5,7 +5,7 @@
 
 -Created - 2024-5-7
 
--Technologies Used - Html , css
+-Technologies Used - Html , Css
 
 Role - Frontend
 ![view](https://github.com/nikmahla/Perfume-/assets/53364627/06d25940-66cb-4aec-9886-b983c0eb61c2)
